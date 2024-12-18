@@ -1,0 +1,4 @@
+transformers==4.11.3
+torch==1.10.0
+flask==2.0.3
+my_legal_library==0.1.0  # Hypothetical legal library
